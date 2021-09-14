@@ -1,0 +1,38 @@
+export default {
+  login: 'prof3ssorSt3v3',
+  id: 1200328,
+  node_id: 'MDQ6VXNlcjEyMDAzMjg=',
+  avatar_url: 'https://avatars.githubusercontent.com/u/1200328?v=4',
+  gravatar_id: '',
+  url: 'https://api.github.com/users/prof3ssorSt3v3',
+  html_url: 'https://github.com/prof3ssorSt3v3',
+  followers_url: 'https://api.github.com/users/prof3ssorSt3v3/followers',
+  following_url:
+    'https://api.github.com/users/prof3ssorSt3v3/following{/other_user}',
+  gists_url: 'https://api.github.com/users/prof3ssorSt3v3/gists{/gist_id}',
+  starred_url:
+    'https://api.github.com/users/prof3ssorSt3v3/starred{/owner}{/repo}',
+  subscriptions_url:
+    'https://api.github.com/users/prof3ssorSt3v3/subscriptions',
+  organizations_url: 'https://api.github.com/users/prof3ssorSt3v3/orgs',
+  repos_url: 'https://api.github.com/users/prof3ssorSt3v3/repos',
+  events_url: 'https://api.github.com/users/prof3ssorSt3v3/events{/privacy}',
+  received_events_url:
+    'https://api.github.com/users/prof3ssorSt3v3/received_events',
+  type: 'User',
+  site_admin: false,
+  name: 'Steve Griffith',
+  company: 'Algonquin College',
+  blog: 'http://www.algonquincollege.com/mediaanddesign/program/mobile-application-design-and-development/',
+  location: 'Ottawa, Ontario, Canada',
+  email: null,
+  hireable: null,
+  bio: 'Coordinator of the Mobile Application Design & Development Program at Algonquin College',
+  twitter_username: 'prof3ssorSt3v3',
+  public_repos: 118,
+  public_gists: 797,
+  followers: 645,
+  following: 1,
+  created_at: '2011-11-16T19:48:02Z',
+  updated_at: '2021-08-26T14:27:24Z',
+}
